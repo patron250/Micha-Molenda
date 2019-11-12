@@ -1,0 +1,31 @@
+.style{
+	background-color: lightblue;
+	margin:10px;
+}
+table, td, th {
+  border: 1px solid black;
+  height:80px;
+  font-size: 20px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  background-color:lightgreen;
+}
+
+th {
+  height: 50px;
+  font-size:20px;
+}
+
+h1{
+	font-size:18px;
+	text-align:center;
+}
+a {    
+text-decoration: none;
+}
+h3{
+	font-size:20px;
+}
